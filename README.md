@@ -418,9 +418,6 @@ El archivo a continuacion es el codigo ejecutado para realizar las trayectorias 
 
 ---
 
-
-==
-
 # 10. Diagrama de flujo del programa de paletizado (patrón de caballo)
 
 ```mermaid
